@@ -1,0 +1,82 @@
+1515515062559	Rename type 'CRFSuiteNERSequenceDemo'
+1515515113843	Rename resource 'Case-Pos-Lemma'
+1515515122897	Rename resource 'Case-Pos'
+1515515135917	Rename resource 'CoveredText'
+1515515529156	Rename type 'NERDemoReader'
+1515515540542	Copy compilation unit
+1515515551315	Rename type 'NERGermanReader2'
+1515515751673	Rename resource 'Initial '
+1515516496338	Rename resource 'Covered Text'
+1515516738928	Rename resource 'Case and POS'
+1515517339087	Rename resource 'Evaluation-NamedEntityTrainTest-8a29c90b-f55c-11e7-8a83-7bfb5aa41925'
+1515517389883	Rename resource '2.a) 1 Neighbour'
+1515517872289	Rename resource 'Evaluation-NamedEntityTrainTest-6f6249c4-f55f-11e7-84e8-63dae86de3e6'
+1515517889632	Rename resource '2.a) 1 Neighbour Covered Text'
+1515517893928	Rename resource '1.b'
+1515517897135	Move folder
+1515517921539	Rename resource '2.a) 1 Neighbour Covered Text'
+1515518064173	Rename resource 'Evaluation-NamedEntityTrainTest-7f33800e-f55b-11e7-8a02-e717c556bd22'
+1515518090379	Move folder
+1515518100878	Delete elements
+1515518374167	Rename resource 'Affix'
+1515518380566	Rename resource '$) Affix'
+1515518417896	Rename resource 'Without Word'
+1515518430831	Rename resource 'All'
+1515518440540	Rename resource '5) All'
+1515518445951	Rename resource '7) German All'
+1515519481884	Rename resource 'Evaluation-NamedEntityTrainTest-d2985ccf-f562-11e7-bed1-ddc77ea1cce1'
+1515519491210	Move folder
+1515519501461	Rename resource '2.a) One Neighbour Covered Text'
+1515519510847	Rename resource '2 a) One Neighbour Covered Text'
+1515519920028	Rename resource '7) German Final'
+1515520349909	Rename resource 'Evaluation-NamedEntityTrainTest-afb58b49-f562-11e7-8fc4-4fb857e2c1e4'
+1515520358655	Move folder
+1515520372173	Rename resource '7) Lemma German'
+1515520410754	Delete elements
+1515576650146	Rename resource 'Evaluation-NamedEntityTrainTest-1d187249-f566-11e7-9a54-51fe86fe39e6'
+1515576692984	Move folder
+1515576698576	Rename resource '8) German no Lemma'
+1515576710470	Rename resource '9) German no Lemma'
+1515576714849	Rename resource '8) German Final'
+1515576731840	Rename resource '7) German Lemma'
+1515577151239	Delete elements
+1515577168069	Move folders
+1515577172320	Delete element
+1515577656274	Copy folder
+1515602166002	Delete elements
+1515602197539	Rename type 'ConditionalRandomFieldForMilestoneTwo'
+1515602211604	Copy compilation unit
+1515602701454	Rename resource 'Evaluation-NamedEntityTrainTest-31defea6-f625-11e7-9e64-63b461ba9ef3'
+1515602711853	Move folder
+1515602718924	Delete element
+1515602721980	Delete element
+1515602725426	Move folder
+1515602727954	Move folder
+1515602907967	Rename resource 'Evaluation-NamedEntityTrainTest-6f732804-f625-11e7-94e7-fb2ef8464128'
+1515602913471	Move folder
+1515602916581	Delete element
+1515603093107	Delete element
+1515603596632	Rename resource 'Evaluation-NamedEntityTrainTest-8885a74e-f626-11e7-904e-2b3b76c17bf3'
+1515603599040	Move folder
+1515603607358	Delete elements
+1515604346000	Delete element
+1515605039200	Rename resource '11) Test Result English'
+1515606279428	Rename resource 'Evaluation-NamedEntityTrainTest-947a142d-f629-11e7-9dcd-a14b52a1eaf2'
+1515606282281	Move folder
+1515606288208	Delete element
+1515674921878	Rename resource '13) Test Result German train'
+1515772356575	Delete element
+1515774845543	Move folders
+1515774853721	Delete element
+1515774888405	Move folders
+1515774894257	Move folder
+1515774901734	Rename resource '12) Test Result English Train'
+1515774908380	Rename resource '13) Test Result German Train'
+1515774917692	Rename resource 'Test Result English Train'
+1515774922044	Rename resource 'Test Result German Train'
+1515787315031	Delete element
+1515787317881	Delete element
+1515787319976	Delete element
+1515787321933	Delete element
+1515787329535	Rename resource 'explanations.tex'
+1515787359673	Rename resource 'explanations.pdf'

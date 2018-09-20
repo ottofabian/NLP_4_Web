@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.syntax.POSRatioFeatureExtractor"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.window.POSExtractor"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.window.LemmaTextExtractor"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.window.CoveredTextExtractor"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.window.CaseExtractor"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.window.WindowFeatureExtractor"/>
+    <fullyQualifiedTypeName name="tut5.ner.extractor.ContextExtractor"/>
+    <fullyQualifiedTypeName name="org.apache.uima.fit.util.JCasUtil"/>
+    <fullyQualifiedTypeName name="de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.apache.commons.collections.map.HashedMap"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.api.features.Feature"/>
+    <fullyQualifiedTypeName name="featureExtractor.VocabularyRichnessFeatureExtractor"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.ngram.LucenePOSNGram"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.ngram.LuceneNGram"/>
+    <fullyQualifiedTypeName name="org.dkpro.tc.features.spelling.SpellingErrorRatioExtractor"/>
+    <fullyQualifiedTypeName name="weka.classifiers.bayes.NaiveBayes"/>
+    <fullyQualifiedTypeName name="weka.classifiers.trees.RandomForest"/>
+</qualifiedTypeNameHistroy>

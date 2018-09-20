@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 source folders to &apos;NLP_and_the_Web_4&apos;&#x0A;- Destination element: &apos;NLP_and_the_Web_4&apos;" description="Copy source folders" destination="=NLP_and_the_Web_4" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="0" stamp="1512660589103" version="1.0"/>
+</session>
